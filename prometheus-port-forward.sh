@@ -1,0 +1,1 @@
+kubectl port-forward deployment/prometheus 9090:9090 -n openfaas

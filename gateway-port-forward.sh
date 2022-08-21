@@ -1,0 +1,1 @@
+kubectl port-forward deployment/gateway 8080:8080 -n openfaas
